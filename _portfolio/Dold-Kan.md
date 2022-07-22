@@ -1,0 +1,9 @@
+---
+title: "The Dold-Kan Correspondence"
+excerpt: "Fourth Year Masters project on the Dold-Kan Correspondence<br/><img src='/images/UOS loho.jpg'>"
+collection: portfolio
+---
+#<a href="https://calum-hughes.github.io/files/Hughes180188509.pdf.pdf
+#">Masters project on the Dold-Kan correspondence, supervised by Prof. Sarah Whitehouse, 2022.<\a> 
+  
+  [Masters project on the Dold-Kan correspondence, supervised by Prof. Sarah Whitehouse, 2022.]([http://github.com](https://calum-hughes.github.io/files/Hughes180188509.pdf.pdf) "PDF")
