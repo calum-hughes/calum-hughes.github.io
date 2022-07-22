@@ -3,5 +3,4 @@ title: "The Dold-Kan Correspondence"
 excerpt: "Fourth Year Masters project on the Dold-Kan Correspondence<br/><img src='/images/UOS loho.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<a href="files/Hughes180188509.pdf.pdf" class="image fit"> here </a>
