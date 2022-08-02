@@ -1,8 +1,11 @@
 ---
 title: "The Dold-Kan Correspondence"
-excerpt: "Fourth Year Masters project on the Dold-Kan Correspondence<br/><img src='/images/UOS loho.jpg'>"
 collection: portfolio
+type: "Talk"
+permalink: files/Hughes180188509.pdf.pdf
+venue: "The University of Sheffield, Hicks Building"
+
+location: "The University of Sheffield"
 ---
 
-  
-  [Masters project on the Dold-Kan correspondence, supervised by Prof. Sarah Whitehouse, 2022.](https://calum-hughes.github.io/files/Hughes180188509.pdf.pdf "PDF")
+Fourth year MMath project on the Dold-Kan correspondence, exploring and explaining the equivalence of categories, and moreover the Quillen Equivalence between simplicial abelian groups and non-negatively graded chain complexes of abelian groups. 
