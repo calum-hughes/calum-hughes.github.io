@@ -11,34 +11,23 @@ redirect_from:
 
 Education
 ======
-* MMath in Mathematics, the University of Sheffield 2022.
+* First Class honours MMath in Mathematics, the University of Sheffield 2022.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Undergraduate Research Internship.
+* Project title: ``Simplicial Sets"
+  * The University of Sheffield
+  * This was a competitive position funded by the School of Mathematics and Statistics, and involved directed reading and working out some new examples of a classifying space of a group by myself.
+  * Supervisor: Dr. James Brotherston
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Undergraduate Research Internship.
+* Project title: ``Dynamics of Linear Operators: Limit Sets in Finite Dimensions''
+  * The London Mathematical Society
+  * This was a competitive UK-wide place to research a 2-month project. It involved using Python to make conjectures about pure maths, and then finding techniques to prove these conjectures about the limiting behaviour of linear operators on finite dimensional space.
+  * Supervisor: Dr. Dimitrios Roxanas
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-#Publications
-#======
- # <ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
   
 Talks
 ======
@@ -46,12 +35,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+ 
