@@ -2,7 +2,7 @@
 title: "The Dold-Kan Correspondence"
 collection: portfolio
 type: "Talk"
-permalink: _portfolio/The Dold-Kan correspondence.pdf
+permalink: _portfolio/Dold-Kan.pdf
 venue: "The University of Sheffield, Hicks Building"
 
 location: "The University of Sheffield"
