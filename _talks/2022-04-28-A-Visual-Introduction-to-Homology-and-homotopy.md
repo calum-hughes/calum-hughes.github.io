@@ -8,4 +8,4 @@ date: 2022-04-28
 location: "The University of Sheffield"
 ---
 
-A 20 minute talk to first and second year undergraduate students introducing the ideas behind (simplicial) homology and homotopy in a visual way.
+Slides for a 20 minute talk to first and second year undergraduate students introducing the ideas behind (simplicial) homology and homotopy in a visual way.
