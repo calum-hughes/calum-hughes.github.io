@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * First Class honours MMath in Mathematics, the University of Sheffield 2022.
+    *Masters project: "The Dold-Kan Correspondence", supervised by Prof. Sarah Whitehouse.
 
 Work experience
 ======
