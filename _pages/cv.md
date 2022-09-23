@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[A PDF of my CV.](https://calum-hughes.github.io/files/CV%2022.pdf) Below is the short version.
+[A PDF of my CV.](files/CV 2022.pdf) Below is the short version.
 
 Education
 ======
