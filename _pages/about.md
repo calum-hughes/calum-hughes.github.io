@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a first year PhD student at the University of Manchester studying model category theory and its relation to homotopy type theory, supervised by Dr. Nicola Gambino. My main interests are in higher category theory. 
+I am a first year PhD student at the University of Manchester studying model category theory and its relation to homotopy type theory, supervised by Dr. Nicola Gambino. 
 
 I completed an MMath in Mathematics at the university of Sheffield in 2022.  
 
