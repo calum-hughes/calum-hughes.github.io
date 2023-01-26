@@ -1,0 +1,14 @@
+---
+title: "Contractibility as Uniqueness"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "Alan Turing Building"
+date: 2022-11-17
+location: "The University of Manchester"
+---
+
+A 1 hour talk presenting ideas from Emily Riehl. 
+
+Abstract: A set with a unique element is a singleton; in contrast, a contractible space can be extremely infinite (R^n for example). Despite this, these concepts are very closely related. We will see a couple of examples from the areas of topology and logic in which the concept of uniqueness is naturally replaced by the concept of contractibility in higher dimensional settings.  This is one of the key insights which led to the development of Homotopy Type Theory.
+
