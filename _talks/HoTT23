@@ -1,0 +1,11 @@
+---
+title: "Homotopy Type Theory Conference 2023"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "Alan Turing Building"
+date: 2023-06-8
+location: "The University of Manchester, Category Theory seminar"
+---
+I explain some of the ideas that were presented at the Homotopy Type Theory conference 2023 at Carnegie Mellon University. In particular, I explain the construction of Riehl and Shulman's theory of synthetic $(\infty,1)$-categories
+through their simplicial type theory. I also discuss synthetic algebraic geometry, other extensions of homotopy type theory, and the unifying theory of modal type theory. 
