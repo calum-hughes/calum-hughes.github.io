@@ -1,0 +1,12 @@
+---
+title: "An Introduction to Homotopy Type Theory"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "Alan Turing Building"
+date: 2023-06-9
+location: "The University of Manchester, Pure Postgraduate seminar"
+---
+It might not be too much of a stretch to say that we live in a golden age of mathematics; there is an explosion of content, theorems, and disparate research areas. With this vast wealth of content comes the need to check it all. This process is highly fallible and time consuming if done by humans, and so it is natural to ask if there is some way to get a computer to do this for us. However, our set-theoretic foundation presents many barriers to the success of this. So, we rip it up and start again!
+
+ In this talk, I will point out problems with formalising set theory in order to motivate the study of a new foundation for mathematics called Homotopy Type theory which takes spaces as basic objects rather than sets. No knowledge is assumed except some basic facts about set theory.
