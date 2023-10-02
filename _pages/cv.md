@@ -44,9 +44,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
 
-  
+
+
+Organisational Activities
+======
+
+Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
+
+
+Students' Logic Seminar, The University of Manchester --- This is a weekly seminar that runs in the mathematics department at the University of Manchester intended for PhD students in logic. 
 
  
