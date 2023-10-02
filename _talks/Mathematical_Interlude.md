@@ -2,7 +2,7 @@
 title: "A Mathematical Interlude: Winning the Lottery with 27 tickets"
 collection: talks
 type: "Talk"
-permalink: /talks/A_Mathematical_intelude.pdf
+permalink: /talks/A_Mathematical_Interlude.pdf
 venue: "Alan Turing Building"
 date: 2023-09-29
 location: "The University of Manchester, Mathematics Students' Research Conference 2023"
