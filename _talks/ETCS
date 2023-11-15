@@ -5,7 +5,7 @@ type: "Talk"
 permalink: 
 venue: "Alan Turing Building"
 date: 2023-11-24
-location: "The University of Manchester"
+location: "The University of Manchester, Student Logic Seminar"
 ---
 
 Abstract: Lawvere's Elementary Theory of the Category of Sets (ETCS) characterises when a category E behaves 'similarly' to the category of sets. More formally, it is an axiomitization of categorical models of ZFC except for the axiom schema of replacement. As such, it provides the language for a category-theoretic foundation of mathematics. 
@@ -19,4 +19,4 @@ In this talk, I will define relevant category-theoretic notions and give an idea
 This talk is a precursor to some work that I have been doing with Adrian on developing a 2-dimensional version of this; the elementary theory of the 2-category of small categories. 
 
 
-This talk was given to the Student Logic Seminar.
+
