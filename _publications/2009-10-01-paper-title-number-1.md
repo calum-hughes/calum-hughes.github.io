@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "The Elementary Theory of the 2-Category of Small Categories"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2024-03-06
+paperurl: 'https://calum-hughes.github.io/portfolio/ET2CSC.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We give an elementary description of $2$-categories
+$\mathbf{Cat}\left(\mathcal{E}\right)$ of internal categories, functors and
+natural transformations, where $\mathcal{E}$ is a category modelling Lawvere's
+elementary theory of the category of sets (ETCS). This extends Bourke's
+characterisation of $2$-categories $\mathbf{Cat}\left(\mathcal{E}\right)$ where
+$\mathcal{E}$ has pullbacks to take account for the extra properties in ETCS,
+and Lawvere's characterisation of the (one dimensional) category of small
+categories to take account of the two-dimensional structure. Important
+two-dimensional concepts which we introduce include $2$-well-pointedness,
+full-subobject classifiers, and the categorified axiom of choice. Along the
+way, we show how generating families (resp. orthogonal factorisation systems)
+on $\mathcal{E}$ give rise to generating families (resp. orthogonal
+factorisation systems) on $\mathbf{Cat}\left(\mathcal{E}\right)_{1}$, results
+which we believe are of independent interest.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[ArXiv found here](https://arxiv.org/abs/2403.03647)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
