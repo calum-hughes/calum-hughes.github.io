@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * Second Year PhD student under the supervision of Dr. Nicola Gambino.
-   * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory.
    * Project Title: "The Effective Model Structure and $\infty$-groupoid objects in homotopy type theory".
+   * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory.
   
 * First Class honours MMath in Mathematics, the University of Sheffield 2022.
    * Masters project: "The Dold-Kan Correspondence", supervised by Prof. Sarah Whitehouse.
