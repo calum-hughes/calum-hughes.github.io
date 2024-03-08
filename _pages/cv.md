@@ -38,7 +38,7 @@ Work experience
 Preprints and Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-publication-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Talks
