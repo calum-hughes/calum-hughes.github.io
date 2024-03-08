@@ -38,20 +38,20 @@ Work experience
 Preprints and Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk-cv.html reversed %}
   {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk-cv.html reversed %}
   {% endfor %}</ul>
   
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html reversed %}
   {% endfor %}</ul>
 
 
