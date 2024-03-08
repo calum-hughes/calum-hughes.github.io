@@ -30,7 +30,11 @@ Work experience
   * This was a competitive UK-wide place to research a 2-month project. It involved using Python to make conjectures about pure maths, and then finding techniques to prove these conjectures about the limiting behaviour of linear operators on finite dimensional space.
   * Supervisor: Dr. Dimitrios Roxanas
   
-
+Preprints and Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-publication-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
