@@ -1,0 +1,11 @@
+---
+title: "The Elementary Theory of the 2-Category of Small Categories"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "Hicks Building"
+date: 2024-03-12
+location: "The University of Sheffield, ShEAF seminar"
+---
+
+Abstract: Lawvere's Elementary Theory of the Category of Sets (ETCS) provides a set theory which axiomatises the properties of function composition rather than those of a global set membership relation. It provides an important fragment of a category-theoretic foundation of mathematics but is strictly weaker than the traditional foundation of mathematics given by Zermelo Fraenkel Set Theory with the Axiom of Choice (ZFC). Precisely, ZFC is equiconsistent with ETCS augmented with the axiom schema of replacement. In this talk, I will motivate a 2-dimensional version of ETCS which axiomatises the properties of functors and functor composition; this is the elementary theory of the 2-category of small categories (ET2CSC) of the title. The advantage of this approach is that the two-dimensional setting supports a convenient way of incorporating the axiom schema of replacement, albeit in a non-elementary way. This talk is based on joint work with Adrian Miranda.
