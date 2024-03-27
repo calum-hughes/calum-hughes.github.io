@@ -64,4 +64,6 @@ Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the org
 
 Students' Logic Seminar, The University of Manchester --- This is a weekly seminar that runs in the mathematics department at the University of Manchester intended for PhD students in logic. 
 
+Topos Theory Reading Group --- I co-organise a weekly reading group for topos theory. 
+
  
