@@ -59,11 +59,17 @@ Teaching
 Organisational Activities
 ======
 
-Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
+* Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
 
 
-Students' Logic Seminar, The University of Manchester --- This is a weekly seminar that runs in the mathematics department at the University of Manchester intended for PhD students in logic. 
+* Students' Logic Seminar, The University of Manchester --- This is a weekly seminar that runs in the mathematics department at the University of Manchester intended for PhD students in logic. 
 
-Topos Theory Reading Group --- I co-organise a weekly reading group for topos theory. 
+* Topos Theory Reading Group --- I co-organise a weekly reading group for topos theory.
 
+Outreach
+======
+
+*I was part of the academic panel for [MIMUC 2024](https://mimucmanchester.wixsite.com/mimuc-2024), the Manchester Interdisciplinary Mathematics Undergraduate Conference. This involved answering students' questions about academia and PhD life. 
+* In 2022 and 2023, I gave feedback on 30 minute talks that Manchester Masters' students gave in preparation for the presentation component of their Masters' Project module.
+* 2022- I have made departmental coffee every Monday... 
  
