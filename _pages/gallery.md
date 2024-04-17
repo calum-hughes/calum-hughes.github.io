@@ -9,5 +9,9 @@ redirect_from:
 ---
 
 
+
+![CT2024](CT23_Group_photo.jpeg)
+CT, 2024. Louvain-La-Nueve.
+
 ![HoTT 2024](HoTT_Group_photo.jpeg)
 Homotopy Type Theory Conference, 2024. Carnegie Melon University.
