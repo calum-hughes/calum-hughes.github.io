@@ -10,5 +10,5 @@ redirect_from:
 ---
 
 
-![HoTT 2024](HoTT Group Photo.jpeg)
+[HoTT 2024](HoTT_Group_Photo.jpeg)
 
