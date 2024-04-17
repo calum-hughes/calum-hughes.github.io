@@ -10,4 +10,4 @@ redirect_from:
 
 
 ![HoTT 2024](HoTT_Group_photo.jpeg)
-
+Homotopy Type Theory Conference, 2024. Carnegie Melon University.
