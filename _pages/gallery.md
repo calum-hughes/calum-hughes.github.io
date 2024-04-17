@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /gallery/
 title: "Gallery"
 excerpt: "Gallery"
@@ -9,5 +10,5 @@ redirect_from:
 ---
 
 
-
+![HoTT 2024](HoTT Group Photo.jpeg)
 
