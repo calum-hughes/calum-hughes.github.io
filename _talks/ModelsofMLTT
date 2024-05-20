@@ -1,0 +1,13 @@
+---
+title: "Models of Martin-Löf Type Theory and Algebraic Model Structures"
+collection: talks
+type: "Talk"
+permalink: talks/ModelsofMLTT.pdf
+venue: "The University of Birmingham"
+date: 2023-11-27
+location: "The University of Birmingham, Theory Seminar"
+---
+
+Known models of Martin-Löf Type Theory (MLTT) include isofibrations in the category of groupoids and Kan fibrations in the category of simplicial sets. It is an open problem to prove constructively that Kan fibrations model Homotopy Type Theory. One suggested way to approach this problem is with an algebraic perspective; the idea being that by keeping track of the algebraic data throughout calculations, proofs become more constructive. Classically, normal isofibrations are the algebras for the right class of a type theoretic algebraic weak factorisation system which form part of an algebraic model structure. Constructively, however, this link breaks down as this algebraic model structure fails to exist.
+
+In this talk, I will show how we can re-establish this connection by proving constructively that cloven isofibrations are the algebras for the right class of a type theoretic algebraic weak factorisation system which form part of an algebraic model structure. I will also briefly discuss how this result holds more generally, providing an internal-groupoidal model of MLTT with links to an algebraic model structure
