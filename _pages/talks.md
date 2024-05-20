@@ -14,7 +14,7 @@ author_profile: true
 
 **Selected Internal Talks** 
 
-- *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](_talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories)[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
+- *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](_talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories) ,[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
 
 - *The Elementary Theory of the Category of Sets* - The University of Manchester Pure Postgraduate Seminar, November 24 2023. [Abstract](https://calum-hughes.github.io/talks/ETCS/)
 - *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023. [Abstract](_talks/Mathematical_Interlude.md), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
