@@ -2,7 +2,7 @@
 title: "A Visual Introduction to Homology and Homotopy"
 collection: talks
 type: "Talk"
-permalink: /talks/A_Visual_Introduction_to_Homology_and_Homotopy.pdf
+permalink:
 venue: "Hicks Building"
 date: 2022-04-28
 location: "The University of Sheffield"
