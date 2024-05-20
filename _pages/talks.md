@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Invited Talks**
 
-- [*Models of Martin-Löf Type Theory and Algebraic Model Structures*](https://researchseminars.org/talk/TheoryCSBham/15/) - University of Birmingham theoretical computer science seminar, May 17 2024. [Abstract], [Slides]
+- [*Models of Martin-Löf Type Theory and Algebraic Model Structures*](https://researchseminars.org/talk/TheoryCSBham/15/) - University of Birmingham theoretical computer science seminar, May 17 2024. [Abstract](_talks/ModelsofMLTT), [Slides](_talks/ModelsofMLTT.pdf)
 
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - The University of Sheffield ShEAF seminar, March 12 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSC2/)
