@@ -24,7 +24,7 @@ author_profile: true
 - *Contractibility as Uniqueness*- The University of Manchester Student Logic Seminar, January 23 2023. [Abstract](https://calum-hughes.github.io/talks/Contractibility%20as%20Uniqueness/)
 - *The Small Object Argument* - The University of Manchester Category Theory Seminar, Novermber 17 2022. [Abstract](https://calum-hughes.github.io/talks/the%20small%20object%20argument/)
 - *The Dold-Kan Correspondence* - The University of Sheffield, May 4 2022. [Abstract](_talks/the_Dold-Kan_correspondence),  [Slides](https://calum-hughes.github.io/talks/Project_Presentation.pdf)
-- *A Visual Introduction to Homology and Homotopy* - The University of Sheffield Pizza Seminar, April 28 2022. [Abstract](https://github.com/calum-hughes/calum-hughes.github.io/blob/master/_talks/2022-04-28-A-Visual-Introduction-to-Homology-and-homotopy.md), [Slides](https://calum-hughes.github.io/talks/A_Visual_Introduction_to_Homology_and_Homotopy.pdf)
+- *A Visual Introduction to Homology and Homotopy* - The University of Sheffield Pizza Seminar, April 28 2022. [Abstract](_talks/2022-04-28-A-Visual-Introduction-to-Homology-and-homotopy.md), [Slides](https://calum-hughes.github.io/talks/A_Visual_Introduction_to_Homology_and_Homotopy.pdf)
 
 {% if site.talkmap_link == true %}
 
