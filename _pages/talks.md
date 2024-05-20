@@ -17,7 +17,7 @@ author_profile: true
 - *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories) ,[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
 
 - *The Elementary Theory of the Category of Sets* - The University of Manchester Pure Postgraduate Seminar, November 24 2023. [Abstract](https://calum-hughes.github.io/talks/ETCS/)
-- *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude.md), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
+- *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023, September 29 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude.md), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
 - *An Introduction to Homotopy Type Theory* - The University of Manchester Pure Postgraduate Seminar, June 9 2023. [Abstract](https://calum-hughes.github.io/talks/IntroToHoTT/)
 - *Homotopy Type Theory Conference 2023* - The University of Manchester Category Theory Seminar,  June 8 2023. [Abstact](https://calum-hughes.github.io/talks/HoTT23/)
 - *A new model for dg-categories* - The University of Manchester Category Theory Seminar, April 21 2023. [Abstract](https://calum-hughes.github.io/talks/a%20new%20model%20for%20dg%20categories/)
