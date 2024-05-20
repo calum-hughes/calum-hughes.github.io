@@ -20,7 +20,7 @@ author_profile: true
 - *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023, September 29 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude.md), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
 - *An Introduction to Homotopy Type Theory* - The University of Manchester Pure Postgraduate Seminar, June 9 2023. [Abstract](https://calum-hughes.github.io/talks/IntroToHoTT/)
 - *Homotopy Type Theory Conference 2023* - The University of Manchester Category Theory Seminar,  June 8 2023. [Abstact](https://calum-hughes.github.io/talks/HoTT23/)
-- *A new model for dg-categories* - The University of Manchester Category Theory Seminar, April 21 2023. [Abstract](https://calum-hughes.github.io/talks/a%20new%20model%20for%20dg%20categories/)
+- *A new model for dg-categories* - The University of Manchester Category Theory Seminar, April 21 2023. [Abstract](https://calum-hughes.github.io/talks/a%20new%20model%20for%20dg%20categories.md/)
 - *Contractibility as Uniqueness*- The University of Manchester Student Logic Seminar, January 23 2023. [Abstract](https://calum-hughes.github.io/talks/Contractibility%20as%20Uniqueness/)
 - *The Small Object Argument* - The University of Manchester Category Theory Seminar, Novermber 17 2022. [Abstract](https://calum-hughes.github.io/talks/the%20small%20object%20argument/)
 - *The Dold-Kan Correspondence* - The University of Sheffield, May 4 2022. [Abstract](https://calum-hughes.github.io/talks/the_Dold-Kan_correspondence),  [Slides](https://calum-hughes.github.io/talks/Project_Presentation.pdf)
