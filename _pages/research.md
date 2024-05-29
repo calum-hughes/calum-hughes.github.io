@@ -10,7 +10,7 @@ redirect_from:
 
 *Papers*
 
-- [The Elementary Theory of the 2-Category of Small Categories](https://arxiv.org/abs/2403.03647), written with Adrian Miranda, 2024. *Theory and Applications of Categories: special volume for Bill Lawvere*-to appear.
+- [The Elementary Theory of the 2-Category of Small Categories](https://arxiv.org/abs/2403.03647), written with Adrian Miranda, 2024. To appear in *Theory and Applications of Categories: special volume for Bill Lawvere*
 
 
 *Preprints*
