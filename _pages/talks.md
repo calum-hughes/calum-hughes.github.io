@@ -18,7 +18,7 @@ author_profile: true
 
 **Contributed Talks**
 
-- *Homotopy Theory and Logic* - British Mathematics Colloquium, 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
+- *Homotopy Theory and Logic* - British Mathematics Colloquium 2024, June 19th 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
 
 
 **Selected Internal Talks** 
