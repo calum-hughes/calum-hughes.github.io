@@ -16,6 +16,11 @@ author_profile: true
 - *The Elementary Theory of the $2$-Category of Small Categories* - The University of Sheffield ShEAF seminar, March 12 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSC2/)
 
 
+**Contributed Talks**
+
+-*Homotopy Theory and Logic* - British Mathematics Colloquium, 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
+
+
 **Selected Internal Talks** 
 
 - *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories) ,[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
