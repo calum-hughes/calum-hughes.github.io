@@ -18,7 +18,7 @@ author_profile: true
 
 **Contributed**
 
-- *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](calum-hughes.github.io/_pages/CT2024.pdf)
+- *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
 - *Homotopy Theory and Logic* - British Mathematics Colloquium 2024, June 19th 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
 
