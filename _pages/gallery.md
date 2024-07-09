@@ -8,11 +8,14 @@ redirect_from:
   - /gallery.html
 ---
 ![CT2024](CT20241.jpg)
-Category Theory Conference, 2025. Santiago de Compostela.
+Category Theory Conference, 2025. Santiago de Compostela. Excursion.
+
 ![CT2024](CT20242.jpg)
-Category Theory Conference, 2025. Santiago de Compostela.
+Category Theory Conference, 2025. Santiago de Compostela. Welcome Drinks.
+
 ![CT2024](CT20243.jpg)
-Category Theory Conference, 2025. Santiago de Compostela.
+Category Theory Conference, 2025. Santiago de Compostela. Group photo.
+
 
 
 ![PP-talk](PP-talk.jpg)
