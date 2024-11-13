@@ -15,7 +15,7 @@ I am a third year PhD student at the University of Manchester studying category 
 
 My research centres around topics in internal category theory, $2$-topos theory, type theory, constructive logic and the intersection of these things.
 
-I started out by constructing a model structure on the category of categories internal to an arithmetic $\Pi$-pretopos; this restricts to a model structure on the category of internal groupoids which forms a model of Martin-L\"of type theory (MLTT). When the category in question is the category of sets, this recovers Hofmann and Streicher's groupoidal model of MLTT, and gives a constructive proof of this and the existence of a model structure on $\mathbf{Cat}$. 
+I started out by constructing a model structure on the category of categories internal to an arithmetic $\Pi$-pretopos; this restricts to a model structure on the category of internal groupoids which forms a model of Martin-L\&ouml;f type theory (MLTT). When the category in question is the category of sets, this recovers Hofmann and Streicher's groupoidal model of MLTT, and gives a constructive proof of this and the existence of a model structure on $\mathbf{Cat}$. 
 
 In order to prove this result, I needed colimits in $\mathbf{Cat}(\mathcal{E})$. In joint work with [Adrian Miranda](https://adriantosharmiranda.github.io/), we worked out conditions on $\mathcal{E}$ which give finite $2$-colimits in $\mathbf{Cat}(\mathcal{E})$. 
 
