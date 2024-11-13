@@ -17,7 +17,7 @@ My research centres around topics in internal category theory, $2$-topos theory,
 
 I started out by constructing a model structure on the category of categories internal to an arithmetic $\Pi$-pretopos; this restricts to a model structure on the category of internal groupoids which forms a model of Martin-L\"{o}f type theory (MLTT). When the category in question is the category of sets, this recovers Hofmann and Streicher's groupoidal model of MLTT, and gives a constructive proof of this and the existence of a model structure on $\mathbf{Cat}$. 
 
-In order to prove this result, I needed colimits in $\mathbf{Cat}(\mathcal{E}). In joint work with [Adrian Miranda](https://adriantosharmiranda.github.io/), we worked out conditions on $\mathcal{E}$ which give finite $2$-colimits in $\mathbf{Cat}(\mathcal{E}). 
+In order to prove this result, I needed colimits in $\mathbf{Cat}(\mathcal{E})$. In joint work with [Adrian Miranda](https://adriantosharmiranda.github.io/), we worked out conditions on $\mathcal{E}$ which give finite $2$-colimits in $\mathbf{Cat}(\mathcal{E})$. 
 
 I am also interested in $2$-dimensional categorical foundations of mathematics. In work with [Adrian Miranda](https://adriantosharmiranda.github.io/) on [The Elementary Theory of the 2-Category of Small Categories](https://arxiv.org/abs/2403.03647) (ET2CSC), we extend Lawvere's elementary theory of the category of sets (ETCS) to a 2-dimensional setting. This gives an axiomatisation of the $2$-category of small categories. 
 
