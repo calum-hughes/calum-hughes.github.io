@@ -1,0 +1,11 @@
+---
+title: "Class $2$-categories"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "The Alan Turing Building"
+date: 2024-11-08
+location: "The University of Manchester, Category Theory Seminar"
+---
+
+Elementary toposes axiomatise the categorical properties of the category of sets. Their internal logic recovers most of ZF set theory, but it is not possible to formulate statements for which the axiom of replacement is used. Joyal and Moerdijk’s Class Categories were designed to instead axiomatise the categorical property of the category of classes, in which statements including replacement can be formulated. In this talk, I will present Simpson’s minimal axioms for a class category and suggest a 2-categorical version of this, presenting some early results in this direction. Examples of this include CAT and 2-categories of categories--- an internal characterisation of CAT based on the elementary theory of the 2-categories of categories. This is joint work in progress with Adrian Miranda.
