@@ -21,15 +21,15 @@ author_profile: true
 - *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
 - *Homotopy Theory and Logic* - British Mathematics Colloquium 2024, June 19th 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
+  
+- *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023, September 29 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
 
 
 **Selected Internal Talks** 
 
 - *Class $2$-categories* - The University of Manchester Category Theory Seminar, November 8 2024. [Abstract](https://calum-hughes.github.io/talks/Class2Categories)
 - *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories) ,[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
-
 - *The Elementary Theory of the Category of Sets* - The University of Manchester Pure Postgraduate Seminar, November 24 2023. [Abstract](https://calum-hughes.github.io/talks/ETCS/)
-- *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023, September 29 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
 - *An Introduction to Homotopy Type Theory* - The University of Manchester Pure Postgraduate Seminar, June 9 2023. [Abstract](https://calum-hughes.github.io/talks/IntroToHoTT/)
 - *Homotopy Type Theory Conference 2023* - The University of Manchester Category Theory Seminar,  June 8 2023. [Abstact](https://calum-hughes.github.io/talks/HoTT23/)
 - *A new model for dg-categories* - The University of Manchester Category Theory Seminar, April 21 2023. [Abstract](https://calum-hughes.github.io/talks/a%20new%20model%20for%20dg%20categories/)
