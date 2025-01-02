@@ -7,14 +7,18 @@ author_profile: true
 redirect_from: 
   - /gallery.html
 ---
+
+![CLHCT](clhct.jpeg)
+Categorical Logic and Higher Category Theory DKO workshop 2024. Manchester. Group photo.
+
 ![CT2024](CT20241.jpg)
-Category Theory Conference, 2025. Santiago de Compostela. Excursion.
+Category Theory Conference, 2024. Santiago de Compostela. Excursion.
 
 ![CT2024](CT20242.jpg)
-Category Theory Conference, 2025. Santiago de Compostela. Welcome Drinks.
+Category Theory Conference, 2024. Santiago de Compostela. Welcome Drinks.
 
 ![CT2024](CT20243.jpg)
-Category Theory Conference, 2025. Santiago de Compostela. Group photo.
+Category Theory Conference, 2024. Santiago de Compostela. Group photo.
 
 
 
