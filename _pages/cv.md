@@ -61,6 +61,8 @@ Teaching
 Organisational Activities
 ======
 
+*Created and maintain the website for the [Manchester Category Theory Group](manchesterct.github.io)
+
 * Local organiser for [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/) conference, The University of Manchester, 16-19th Decemeber 2024. 
 
 * Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
@@ -79,5 +81,7 @@ Outreach
 * I was part of the academic panel for [MIMUC 2024](https://mimucmanchester.wixsite.com/mimuc-2024), the Manchester Interdisciplinary Mathematics Undergraduate Conference. This involved answering students' questions about academia and PhD life. 
 * In 2022, 2023, and 2024 I gave feedback on 30 minute talks that Manchester Masters' students gave in preparation for the presentation component of their Masters' Project module.
 * I helped out with the Univeristy of Sheffield's open days for the School of Mathematics and Statistics. This involved helping out on the open desks, chatting to people about what doing a maths degree was like, and giving a talk about my experience in the SURE internship scheme.
-* 2022- I have made departmental coffee every Monday... 
- 
+* 2022- I have made departmental coffee every Monday...
+
+
+
