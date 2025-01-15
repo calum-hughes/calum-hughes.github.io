@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Third Year PhD student under the supervision of Dr. Nicola Gambino.
+* Third Year PhD student under the supervision of Dr. [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).
    * Project Title: "The Effective Model Structure and $\infty$-groupoid objects in homotopy type theory".
    * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory, Enriched Category Theory.
   
@@ -53,6 +53,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html%}
   {% endfor %}</ul>
+
+  I also made the Tikz Diagrams for the MATH 34011 lecture notes (Complex Analysis and Complex Analysis with applications).[See them here](https://calum-hughes.github.io/portfolio/ComplexAnalysisDiagrams.pdf)
 
 
 
