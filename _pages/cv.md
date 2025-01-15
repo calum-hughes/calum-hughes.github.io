@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Second Year PhD student under the supervision of Dr. Nicola Gambino.
+* Third Year PhD student under the supervision of Dr. Nicola Gambino.
    * Project Title: "The Effective Model Structure and $\infty$-groupoid objects in homotopy type theory".
-   * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory.
+   * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory, Enriched Category Theory.
   
 * First Class honours MMath in Mathematics, the University of Sheffield 2022.
    * Masters project: "The Dold-Kan Correspondence", supervised by Prof. Sarah Whitehouse.
@@ -59,12 +59,14 @@ Teaching
 Organisational Activities
 ======
 
+* Local organiser for [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/) conference, The University of Manchester, 16-19th Decemeber 2024. 
+
 * Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
 
 
 * Students' Logic Seminar, The University of Manchester --- This is a weekly seminar that runs in the mathematics department at the University of Manchester intended for PhD students in logic. 
 
-* Topos Theory Reading Group --- I co-organise a weekly reading group for topos theory.
+* Topos Theory Reading Group --- I co-organise a weekly reading group for topos theory and higher topos theory.
 
 * British Mathematics Colloquium 2024 --- I helped out with the setup of the 75th BMC.
 
