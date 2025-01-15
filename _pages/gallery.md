@@ -26,7 +26,7 @@ Category Theory Conference, 2024. Santiago de Compostela. Group photo.
 *The Elementary Theory of the 2-Category of Small Categories*, Pure Postgraduate Seminar, University of Manchester. March 01 2024.
 
 ![CT2023](CT23_Group_photo.jpg)
-Category Theory Conference, 2024. Louvain-La-Nueve.
+Category Theory Conference, 2023. Louvain-La-Nueve.
 
 ![HoTT 2023](HoTT_Group_photo.jpeg)
-Homotopy Type Theory Conference, 2024. Carnegie Melon University.
+Homotopy Type Theory Conference, 2023. Carnegie Melon University.
