@@ -61,7 +61,7 @@ Teaching
 Organisational Activities
 ======
 
-*Created and maintain the website for the [Manchester Category Theory Group](manchesterct.github.io)
+*Created and maintain the website for the [Manchester Category Theory Group](https://manchesterct.github.io)
 
 * Local organiser for [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/) conference, The University of Manchester, 16-19th Decemeber 2024. 
 
