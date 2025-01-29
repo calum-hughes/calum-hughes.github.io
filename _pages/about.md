@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a third year PhD student at the University of Manchester studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).  
+I am a third year PhD student in the University of Manchester's [category theory group](https://manchester-ct.github.io) studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).  
 
 My research centres around topics in internal category theory, $2$-topos theory, type theory, constructive logic and the intersection of these things.
 
@@ -23,5 +23,8 @@ I am also interested in $2$-dimensional categorical foundations of mathematics. 
 
 One of the problems with ETCS (and hence ET2CSC) is that the internal logic cannot model any statements for which the axiom of replacement is used. In order to solve this in the 1-dimensional setting, we must look at the category of classes rather than the category of sets. Joyal and Moerdijk's concept of a *Class category* aims to axiomatise the categorical properties of the category of classes in contrast to an elementary topos, which aims to axiomatise the category of sets.  Similarly, in $2$-dimensions, we must move from the world of small categories to the world of locally small categories, ion which we can state the axiom of replacement. Our $2$-dimensional reformulation of Class categories gives a suitable environment for talking about a $2$-category with a well-behaved class of "small" objects. Our motivating example is the category of locally small categories, for which the small objects are the small categories. 
 
+I am the maintainer of the University of Manchester's Category Theory Group [website](https://manchester-ct.github.io).
+
 I completed an MMath in Mathematics at the university of Sheffield in 2022. My MMath project was on the Dold-Kan correspondence, supervised by Prof. Sarah Whitehouse.   
+
 
