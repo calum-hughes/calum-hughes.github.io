@@ -1,0 +1,15 @@
+---
+title: "Colimits of Internal Categories, with Adrian Miranda"
+collection: publications
+permalink: /portfolio/colimits.pdf
+published: ArXiv
+date: 2025-01-30
+paperurl: 'https://arxiv.org/abs/2501.17769'
+location: "with Adrian Miranda"
+
+---
+We show that for a list-arithmetic pretopos $\mathcal{E}$ with pullback stable coequalisers, the 2-category $\mathbf{Cat}(\mathcal{E})$ of internal categories, functors and natural transformations
+has finite $2$-colimits.
+
+[ArXiv found here](https://arxiv.org/abs/2501.17769)
+
