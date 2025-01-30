@@ -15,6 +15,8 @@ redirect_from:
 
 *Preprints*
 
+-[Colimits of Internal Categories](https://arxiv.org/abs/2501.17769), written with Adrian Miranda, 2025. 
+
 
 
 *Other*
