@@ -29,6 +29,9 @@ author_profile: true
 
 **Selected Internal Talks** 
 
+- *An algebraic internal groupoidal model of type theory* - The University of Manchester Category Theory Seminar, February 21st 2025. 
+
+
 - *Class $2$-categories* - The University of Manchester Category Theory Seminar, November 8 2024. [Abstract](https://calum-hughes.github.io/talks/Class2Categories)
 - *An Algebraic Folk Model Structure for Internal Categories* - The University of Manchester Category Theory Seminar, November 27 2023. [Abstract](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories) ,[Slides](https://calum-hughes.github.io/talks/An_Algebraic_Folk_Model_Structure_for_Internal_Categories.pdf)
 - *The Elementary Theory of the Category of Sets* - The University of Manchester Pure Postgraduate Seminar, November 24 2023. [Abstract](https://calum-hughes.github.io/talks/ETCS/)
