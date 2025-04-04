@@ -29,6 +29,8 @@ author_profile: true
 
 **Selected Internal Talks** 
 
+- *Algebraic properties of the category of compact Hausdorff spaces* - The University of Manchester Category Theory Seminar, March 20th, 2025.
+
 - *An algebraic internal groupoidal model of type theory* - The University of Manchester Category Theory Seminar, February 21st 2025. 
 
 
