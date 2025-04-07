@@ -28,7 +28,7 @@ author_profile: true
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - Mathematics Students' Research Conference, September 27 2024. Awarded best pure mathematical poster presented. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
-- *The Elementary Theory of the $2$-Category of Small Categories* - Introduction to Modern Advances in Algebra, April 2025.
+- *The Elementary Theory of the $2$-Category of Small Categories* - [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2025/programme?authuser=0), April 2025.
 
 
 **Selected Internal Talks** 
