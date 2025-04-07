@@ -18,6 +18,8 @@ author_profile: true
 
 **Contributed**
 
+
+
 - *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
 - *Homotopy Theory and Logic* - British Mathematics Colloquium 2024, June 19th 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
@@ -25,6 +27,8 @@ author_profile: true
 - *A Mathematical Interlude: Winning the Lottery with 27 tickets* - Mathematics Students' Research Conference 2023, September 29 2023. [Abstract](https://calum-hughes.github.io/talks/Mathematical_Interlude), [Slides](https://calum-hughes.github.io/talks/A_Mathematical_Interlude.pdf)
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - Mathematics Students' Research Conference, September 27 2024. Awarded best pure mathematical poster presented. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
+
+- *The Elementary Theory of the $2$-Category of Small Categories* - Introduction to Modern Advances in Algebra, April 2025. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
 
 **Selected Internal Talks** 
