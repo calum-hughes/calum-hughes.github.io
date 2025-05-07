@@ -18,7 +18,7 @@ author_profile: true
 
 **Contributed**
 
-
+-*Colimits in Internal Categories* - 110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), May 3 2025. [Abstract](https://calum-hughes.github.io/talks/ColimitsPSSL), [Slides](https://calum-hughes.github.io/talks/ColimitsPSSL.pdf)
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
