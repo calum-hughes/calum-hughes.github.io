@@ -7,6 +7,8 @@ author_profile: true
 redirect_from: 
   - /gallery.html
 ---
+![PSSL2025](PSSL_Tallinn.jpg)
+110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), 2025. Tallinn, Estonia. Group photo.
 
 ![CLHCT](clhct.jpeg)
 Categorical Logic and Higher Category Theory DKO workshop 2024. Manchester. Group photo.
