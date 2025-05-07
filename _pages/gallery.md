@@ -7,7 +7,7 @@ author_profile: true
 redirect_from: 
   - /gallery.html
 ---
-![PSSL2025](PSSL_Tallinn.jpg)
+![PSSL2025](PSSL_Tallinn.jpg.jpeg)
 110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), 2025. Tallinn, Estonia. Group photo.
 
 ![CLHCT](clhct.jpeg)
