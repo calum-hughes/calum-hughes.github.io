@@ -1,0 +1,14 @@
+---
+title: "Colimits of internal categories"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "Teachers' House (Õpetajate Maja), Tallinn, Estonia"
+date: 2025-05-3
+location: "110th Peripatetic Seminar on Sheaves and Logic (PSSL 110)"
+---
+The construction of 2-limits in internal category theory is simple; they are just pointwise limits in the ambient category. On the other hand, 2-colimits are more subtle; whilst the construction of coproducts and copowers by the walking arrow are known, the construction of coequalisers of internal categories is a folklore result.
+
+In this talk, I will give a recipe for calculating coequalisers of parallel pairs of internal functors. This process uses the construction of free internal categories on internal graphs, extensivity and some exactness properties of the ambient category. I will show that these assumptions are necessary and sufficient.
+
+If you don't like internal category theory, then you can treat this talk as if it were about small category theory and get a different perspective on this case. Otherwise, you may wish to work internal to a locally cartesian closed pretopos with natural numbers object; in particular, this gives a proof of this for categories when working in type-theoretic foundations of mathematics.
