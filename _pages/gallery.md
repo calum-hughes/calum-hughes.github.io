@@ -7,6 +7,9 @@ author_profile: true
 redirect_from: 
   - /gallery.html
 ---
+![TYPES 2025](TYPES2025.jpg)
+TYPES, 2025. Glasgow, Scotland. Group photo.
+
 ![PSSL2025](PSSL_Tallinn.jpg)
 110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), 2025. Tallinn, Estonia. Group photo.
 
