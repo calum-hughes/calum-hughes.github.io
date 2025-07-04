@@ -12,3 +12,5 @@ We extend the model structure on the category $\mathbf{Cat}(\mathcal{E})$ of int
 
 [ArXiv found here](https://arxiv.org/abs/2503.17319)
 
+
+
