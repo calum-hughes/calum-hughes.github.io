@@ -1,5 +1,5 @@
 ---
-title: "The algebraic groupoid model of Martin-L\"{o}f type theory"
+title: "The algebraic groupoid model of Martin-Löf type theory"
 collection: publications
 permalink: /portfolio/groupoids.pdf
 published: ArXiv
