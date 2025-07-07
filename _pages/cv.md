@@ -14,8 +14,9 @@ redirect_from:
 Education
 ======
 * Third Year PhD student under the supervision of Dr. [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).
-   * Project Title: "The Effective Model Structure and $\infty$-groupoid objects in homotopy type theory".
+   * Working thesis title: "Logic in 2-categories of internal categories".
    * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory, Enriched Category Theory.
+   * Reading groups: Topos theory, infinity-category theory, applied category theory.
   
 * First Class honours MMath in Mathematics, the University of Sheffield 2022.
    * Masters project: "The Dold-Kan Correspondence", supervised by Prof. Sarah Whitehouse.
