@@ -18,6 +18,8 @@ author_profile: true
 
 **Contributed**
 
+- *Internal categories, algebraic model structures and type theory* - CT2025, July 18 2025. [Abstract](https://calum-hughes.github.io/talks/CT2025), [Slides](https://calum-hughes.github.io/talks/CT2025.pdf)
+
 - *An algebraic internal groupoid model of Martin-Löf type theory* - TYPES 2025, June 9 2025. [Abstract](https://calum-hughes.github.io/talks/TYPES2025), [Slides](https://calum-hughes.github.io/talks/TYPES2025.pdf)
 
 - *Colimits in Internal Categories* - 110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), May 3 2025. [Abstract](https://calum-hughes.github.io/talks/ColimitsPSSL), [Slides](https://calum-hughes.github.io/talks/ColimitsPSSL.pdf)
