@@ -9,6 +9,7 @@ redirect_from:
 ---
 ![CT 2025](/images/CT2025.jpg)
 *Internal categories, algebraic model structures and type theory*, International category theory conference, Masaryk University, Bno, Czechia. July 18 2025.
+
 ![TYPES 2025](TYPES2025.jpg)
 TYPES, 2025. Glasgow, Scotland. Group photo.
 
