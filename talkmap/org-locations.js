@@ -2,16 +2,16 @@ var addressPoints = [
   [
     "Pittsburgh, USA",
     40.4387,
-    79.9972
+    -79.9972
   ]
   ,
   [
     "Manchester, UK",
-    53.4808, 2.2426
+    53.4808, -2.2426
   ],
   [
     "Santiago de Compostela, Spain",
-    42.8769, 8.5442
+    42.8769, -8.5442
   ],
   [
     "Brno, Czechia",
@@ -20,17 +20,17 @@ var addressPoints = [
   ,
   [
     "Glasgow, UK",
-    55.8617, 4.2583
+    55.8617, -4.2583
   ]
   ,
   [
     "Sheffield, UK",
-    53.3811, 1.4701
+    53.3811, -1.4701
    ]
   ,
   [
     "Birmingham, UK",
-    52.4823, 1.8900
+    52.4823, -1.8900
     ]
   ,
   [
