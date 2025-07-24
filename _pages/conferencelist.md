@@ -1,11 +1,11 @@
 ---
+layout: archive
+permalink: /conferencelist/
 title: "Conferences and meetings attended"
-collection: talks
-type: "Talk"
-permalink:/conferencelist/ 
-venue: "All over the world"
-date: 2025-08-23
-location: "Everywhere"
+excerpt: "Conferences attended"
+author_profile: true
+redirect_from: 
+  - /conferences.html
 ---
 Below is a list of conferences and meetings I have attended.
 
