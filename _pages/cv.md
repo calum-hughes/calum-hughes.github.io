@@ -36,7 +36,7 @@ Talks
     {% include archive-single-talk-cv.html%}
   {% endfor %}</ul>
 
-See a list of conferences I have attended [here](calum-hughes.github.io/conferencelist).
+See a list of conferences I have attended [here](https://calum-hughes.github.io/conferencelist).
   
 
 Teaching
