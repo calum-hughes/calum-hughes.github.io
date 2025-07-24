@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 Below is a list of talks that I have done. See a map of them all [here](calum-hughes.github.io/talkmap).
+
+
 **Invited Talks**
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - Masaryk University Algebra Seminar, June 5 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSCMasaryk), [Slides](https://calum-hughes.github.io/talks/ET2CSC.pdf), [Video](https://www.youtube.com/watch?v=RM4dOBbgiFI)
