@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Below is a list of talks that I have done. See a map of them all [here](calum-hughes.github.io/talkmap).
+Below is a list of talks that I have done. See a map of them all [here](https://calum-hughes.github.io/talkmap).
 
 
 **Invited Talks**
