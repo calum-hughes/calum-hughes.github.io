@@ -1,6 +1,5 @@
 ---
 title: "Conferences and meetings attended"
-theory"
 collection: talks
 type: "Talk"
 permalink:/conferencelist/ 
