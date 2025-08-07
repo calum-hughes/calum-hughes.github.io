@@ -9,8 +9,9 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Invited Talks**
 
-- *The Elementary Theory of the $2$-Category of Small Categories* - Masaryk University Algebra Seminar, June 5 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSCMasaryk), [Slides](https://calum-hughes.github.io/talks/ET2CSC.pdf), [Video](https://www.youtube.com/watch?v=RM4dOBbgiFI)
+- *Class $(2,1)$-categories*- HoTT MURI 2025, August 7 2925. [Slides](https://calum-hughes.github.io/talks/2CC.pdf)
 
+- *The Elementary Theory of the $2$-Category of Small Categories* - Masaryk University Algebra Seminar, June 5 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSCMasaryk), [Slides](https://calum-hughes.github.io/talks/ET2CSC.pdf), [Video](https://www.youtube.com/watch?v=RM4dOBbgiFI)
 
 
 - [*Models of Martin-Löf Type Theory and Algebraic Model Structures*](https://researchseminars.org/talk/TheoryCSBham/15/) - University of Birmingham theoretical computer science seminar, May 17 2024. [Abstract](https://calum-hughes.github.io/talks/ModelsofMLTT), [Slides](https://calum-hughes.github.io/talks/ModelsofMLTT.pdf)
