@@ -7,4 +7,5 @@ venue: "Carnegie Mellon University, Pittsburgh, PA, USA"
 date: 2025-08-7
 location: "HoTT-MURI2025"
 ---
+
 I present some work in progress on axiomatising $(2,1)$-categories that have a notion of size attatched to them. This reflects the situation when the $(2,1)$-category in question is the $\mathbf{GPD}$ the category of large groupoid. The small objects here are the category of small groupoids. The punchline of such an axiomatisation is that the internal language of the categoruy of small objects of a class $(2,1)$-category is a $1$-dimensional model of Martin-L\"{o}f type theory.
