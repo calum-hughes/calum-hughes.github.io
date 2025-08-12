@@ -1,23 +1,10 @@
 ---
-title: "The Elementary Theory of the 2-Category of Small Categories"
+title: "The Dold-Kan Correspondence"
 collection: portfolio
 permalink: /portfolio/ET2CSC.pdf
-excerpt: 'We give an elementary description of $2$-categories
-$\mathbf{Cat}\left(\mathcal{E}\right)$ of internal categories, functors and
-natural transformations, where $\mathcal{E}$ is a category modelling Lawvere's
-elementary theory of the category of sets (ETCS). This extends Bourke's
-characterisation of $2$-categories $\mathbf{Cat}\left(\mathcal{E}\right)$ where
-$\mathcal{E}$ has pullbacks to take account for the extra properties in ETCS,
-and Lawvere's characterisation of the (one dimensional) category of small
-categories to take account of the two-dimensional structure. Important
-two-dimensional concepts which we introduce include $2$-well-pointedness,
-full-subobject classifiers, and the categorified axiom of choice. Along the
-way, we show how generating families (resp. orthogonal factorisation systems)
-on $\mathcal{E}$ give rise to generating families (resp. orthogonal
-factorisation systems) on $\mathbf{Cat}\left(\mathcal{E}\right)_{1}$, results
-which we believe are of independent interest.'
+excerpt: 'The elementary theory of the 2-category of small categories'
 
-paperurl: 'https://arxiv.org/abs/2403.03647'
+paperurl: 'https://calum-hughes.github.io/portfolio/Dold-Kan.pdf'
 
 ---
 We give an elementary description of $2$-categories
@@ -34,4 +21,9 @@ way, we show how generating families (resp. orthogonal factorisation systems)
 on $\mathcal{E}$ give rise to generating families (resp. orthogonal
 factorisation systems) on $\mathbf{Cat}\left(\mathcal{E}\right)_{1}$, results
 which we believe are of independent interest.
+
+[Download project here](https://calum-hughes.github.io/portfolio/ET2CSC.pdf)
+
+
+
 
