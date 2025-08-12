@@ -7,6 +7,8 @@ author_profile: true
 redirect_from: 
   - /gallery.html
 ---
+
+Here is a bunch of photos from conferences and talks. If you like, you can play "Where's Wally" with me in the group photos.
 ![CT 2025](/images/CT2025.jpg)
 *Internal categories, algebraic model structures and type theory*, International category theory conference, Masaryk University, Bno, Czechia. July 18 2025.
 
