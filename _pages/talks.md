@@ -22,13 +22,13 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Contributed**
 
-- *Internal categories, algebraic model structures and type theory* - CT2025, July 18 2025. [Abstract](https://calum-hughes.github.io/talks/CT2025), [Slides](https://calum-hughes.github.io/talks/CT2025.pdf)
+- *Internal categories, algebraic model structures and type theory* - International Category Theory conference 2025, July 18 2025. [Abstract](https://calum-hughes.github.io/talks/CT2025), [Slides](https://calum-hughes.github.io/talks/CT2025.pdf)
 
 - *An algebraic internal groupoid model of Martin-Löf type theory* - TYPES 2025, June 9 2025. [Abstract](https://calum-hughes.github.io/talks/TYPES2025), [Slides](https://calum-hughes.github.io/talks/TYPES2025.pdf)
 
 - *Colimits in Internal Categories* - 110th Peripatetic Seminar on Sheaves and Logic (PSSL 110), May 3 2025. [Abstract](https://calum-hughes.github.io/talks/ColimitsPSSL), [Slides](https://calum-hughes.github.io/talks/ColimitsPSSL.pdf)
 
-- *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
+- *The Elementary Theory of the $2$-Category of Small Categories* - International Category Theory conference 2024, June 25 2024. [Poster](https://calum-hughes.github.io/_pages/CT2024.pdf)
 
 - *Homotopy Theory and Logic* - British Mathematics Colloquium 2024, June 19th 2024. [Slides](https://calum-hughes.github.io/talks/BMC.pdf)
   
