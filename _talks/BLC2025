@@ -1,0 +1,10 @@
+---
+title: "Categorified Choice Principles"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "University of Manchester, United Kingdom"
+date: 2025-09-12
+location: "British Logic Colloquium 2025"
+---
+Lawvere introduced the elementary theory of the category of sets (ETCS) to axiomatise the essential properties of the category of sets in ZF. Here, the axiom of choice corresponds to asserting that every object is projective. Later, Palmgren introduced the constructive elementary theory of the category of sets (CETCS) to axiomatise the essential properties of the category of sets in Aczel’s Constructive Zermelo-Frankel set theory. Here, the Presentation Axiom corresponds to asserting that every object is covered by a projective object. This talk is about the essential properties of categories in models of ETCS and CETCS. In earlier work with Adrian Miranda, we characterised the properties of the 2-category of categories in models of ETCS. Here, I will explain an extension of this work in two ways. First, we introduce a 2-categorical notion of projective object and show that, in a model of ETCS, the axiom of choice is true if and only if every category is a projective object in this sense. Secondly, we show that, in a model of CETCS, the Presentation Axiom holds if and only if every small category admits a particular kind of regular epimorphism from a 2-dimensional projective category. If time allows, we will conclude by relating Martin-Löf type theory to CETCS.
