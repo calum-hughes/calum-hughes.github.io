@@ -10,8 +10,11 @@ redirect_from:
 
 Here is a bunch of photos from conferences and talks. If you like, you can play "Where's Wally" with me in the group photos.
 
+![BLC2025](/images/BLC2025.jpg)
+*Categorified Choice Principles*, Biritsh Logic Colloquium, Manchester University, UK. September 12 2025.
+
 ![CT 2025](/images/CT2025.jpg)
-*Internal categories, algebraic model structures and type theory*, International category theory conference, Masaryk University, Bno, Czechia. July 18 2025.
+*Internal categories, algebraic model structures and type theory*, International category theory conference, Masaryk University, Brno, Czechia. July 18 2025.
 
 ![CT 2025](/images/CT20252.jpg)
 Category Theory Conference, 2025. Brno, Czechia. Group photo.
