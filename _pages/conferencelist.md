@@ -21,5 +21,6 @@ Below is a list of conferences and meetings I have attended.
   <li> Introduction to Modern Advances in Algebra 2025</li>
   <li> HoTT 2023 </li>
   <li> MRSC: 2022, 2023, 2024 </li>
+  <li> British Logic Colloquium, 2025 </li>
  </ul>
   
