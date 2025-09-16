@@ -54,6 +54,8 @@ Organisational Activities
 
 * Created and maintain the website for the [Manchester Category Theory Group](https://manchester-ct.github.io)
 
+* Local organiser for British Logic Colloquium 2025, The University of Manchester, 11-13th September 2025. 
+
 * Local organiser for [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/) conference, The University of Manchester, 16-19th Decemeber 2024. 
 
 * Mathematics Students' Research Conference 2023 (29/09/2023) --- I was on the organisational committee for this conference which had over 60 attendants. The organisation involved sourcing £1500 funding from two institutes (Heilbronn Institute of Pure Mathematics and The University of Manchester School of Mathematics), organising catering, speakers and a poster session.
