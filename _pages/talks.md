@@ -22,6 +22,8 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Contributed**
 
+- *$2$-dimensional notions of realisability* - Category theory working group, October 24 2025. 
+
 - *Categorified Choice Principles* - British Logic Colloquium 2025, September 12 2025. [Abstract](https://calum-hughes.github.io/talks/BLC2025), [Slides](https://calum-hughes.github.io/talks/BLC2025.pdf)
 
 - *Internal categories, algebraic model structures and type theory* - International Category Theory conference 2025, July 18 2025. [Abstract](https://calum-hughes.github.io/talks/CT2025), [Slides](https://calum-hughes.github.io/talks/CT2025.pdf)
