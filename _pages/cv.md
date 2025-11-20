@@ -52,7 +52,7 @@ Teaching
 Organisational Activities
 ======
 
-* Created and maintain the website for the [Manchester Category Theory Group](https://manchester-ct.github.io)
+* Created and maintain the website for the [Manchester Category Theory Group](https://manchester-ct.github.io).
 
 * Local organiser for British Logic Colloquium 2025, The University of Manchester, 11-13th September 2025. 
 
