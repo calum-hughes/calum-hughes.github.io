@@ -22,7 +22,7 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Contributed**
 
-- *Class $(2,1)$-categories* - Higher structures, University of Nottingham, November 19 2025.
+- *Class $(2,1)$-categories* - Higher structures, University of Nottingham, November 19 2025. [Abstract](https://calum-hughes.github.io/talks/classcatsnott)
 
 - *Categorified Choice Principles* - British Logic Colloquium 2025, September 12 2025. [Abstract](https://calum-hughes.github.io/talks/BLC2025), [Slides](https://calum-hughes.github.io/talks/BLC2025.pdf)
 
