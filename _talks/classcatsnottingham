@@ -1,0 +1,12 @@
+---
+title: "Class $(2,1)$-categories"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "University of Nottingham, UK"
+date: 2025-11-19
+location: "Higher Structures"
+---
+Abstract:
+
+It is well known that the internal language of a 1-dimensional elementary topos is some form of Zermelo-Fraenkel set theory. In 2-dimensions, however, the landscape becomes far less clear. In this talk, I will argue that extending our attention to class categories rather than elementary toposes clarifies the setting, and I will present a 2-categorical version of these which have the property that their internal language is some form of Martin-Löf type theory. 
