@@ -40,6 +40,6 @@ var addressPoints = [
   ,
   [
     "Nottingham, UK",
-    52.9540, 1.1550
+    52.9540, -1.1550
    ]
 ];
