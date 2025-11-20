@@ -45,7 +45,7 @@ Teaching
     {% include archive-single-cv.html%}
   {% endfor %}</ul>
 
-  I also made the Tikz Diagrams for the MATH 34011 lecture notes (Complex Analysis and Complex Analysis with applications).[See them here](https://calum-hughes.github.io/portfolio/ComplexAnalysisDiagrams.pdf)
+  I also made the Tikz Diagrams for the MATH 34011 lecture notes (Complex Analysis and Complex Analysis with applications). [See them here](https://calum-hughes.github.io/portfolio/ComplexAnalysisDiagrams.pdf)
 
 
 
