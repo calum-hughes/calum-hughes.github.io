@@ -37,4 +37,9 @@ var addressPoints = [
     "Tallinn, Estonia",
     59.4370, 24.7536
   ]
+  ,
+  [
+    "Nottingham, UK",
+    52.9540, 1.1550
+   ]
 ];
