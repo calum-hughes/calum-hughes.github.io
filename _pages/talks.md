@@ -9,6 +9,8 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Invited Talks**
 
+- *Size in elementary $2$-topos theory* - Masaryk University Algebra Seminar, November 26 2025. [Abstract](https://calum-hughes.github.io/talks/Sizein2topos), [Slides](https://calum-hughes.github.io/talks/Sizein2topos.pdf)
+
 - *Class $(2,1)$-categories*- HoTT MURI 2025, Carnegie Mellon University, Pittsburgh. August 7 2025. [Slides](https://calum-hughes.github.io/talks/2CC.pdf)
 
 - *The Elementary Theory of the $2$-Category of Small Categories* - Masaryk University Algebra Seminar, June 5 2024. [Abstract](https://calum-hughes.github.io/talks/ET2CSCMasaryk), [Slides](https://calum-hughes.github.io/talks/ET2CSC.pdf), [Video](https://www.youtube.com/watch?v=RM4dOBbgiFI)
