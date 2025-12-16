@@ -13,7 +13,7 @@ redirect_from:
 
 I am a fourth year PhD student in the University of Manchester's [category theory group](https://manchester-ct.github.io) studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).  
 
-My research centres around topics in internal category theory, $2$-topos theory, type theory, constructive logic and the intersection of these things.
+My research centres around topics in internal category theory, $2$-topos theory, type theory, homotopy thoery and the intersection of these things.
 
 In particular, I am interested in logical properties of $2$-categories of internal categories, and $(2,1)$-categories of internal groupoids. It is possible to show that given certain axioms on $\mathcal{E}$, the $(2,1)$-category $\mathbf{Gpd}(\mathcal{E})$ forms a model of Martin-Löf type theory. In some sense, this can be seen as its internal language.
 
