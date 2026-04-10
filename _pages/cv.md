@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Fourth Year PhD student under the supervision of Dr. [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).
-   * Working thesis title: "Logic in 2-categories of internal categories".
+   * Working thesis title: "Internal categories, internal groupoids and models of type theory".
    * Courses taken: Category Theory, Set Theory, Homological Algebra, Languages and Groups, Representation Theory of Groups, Model Theory, Enriched Category Theory.
    * Reading groups: Topos theory, infinity-category theory, applied category theory.
   
