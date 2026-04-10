@@ -9,6 +9,8 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Invited Talks**
 
+- [*Elementary axiomatisations of the (2,1)-category of groupoids*](https://events.manchester.ac.uk/event/event:n1p4-mltd6c22-obauzy/logic-seminar-calum-hughes) - University of Manchester Logic Seminar, February 25 2026. 
+
 - *Size in elementary $2$-topos theory* - Masaryk University Algebra Seminar, November 26 2025. [Abstract](https://calum-hughes.github.io/talks/Sizein2topos), [Slides](https://calum-hughes.github.io/talks/Sizein2topos.pdf)
 
 - *Class $(2,1)$-categories*- HoTT MURI 2025, Carnegie Mellon University, Pittsburgh. August 7 2025. [Slides](https://calum-hughes.github.io/talks/2CC.pdf)
