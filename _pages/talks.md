@@ -9,7 +9,7 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Invited Talks**
 
-- [*Elementary axiomatisations of the (2,1)-category of groupoids*](https://events.manchester.ac.uk/event/event:n1p4-mltd6c22-obauzy/logic-seminar-calum-hughes) - University of Manchester Logic Seminar, February 25 2026. 
+- [*Elementary axiomatisations of the (2,1)-category of groupoids*](https://events.manchester.ac.uk/event/event:n1p4-mltd6c22-obauzy/logic-seminar-calum-hughes) - University of Manchester Logic Seminar, February 25 2026. [Abstract](https://calum-hughes.github.io/talks/ManchesterLogicSeminar)
 
 - *Size in elementary $2$-topos theory* - Masaryk University Algebra Seminar, November 26 2025. [Abstract](https://calum-hughes.github.io/talks/Sizein2topos), [Slides](https://calum-hughes.github.io/talks/Sizein2topos.pdf)
 
@@ -25,6 +25,7 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 
 **Contributed**
+
 
 - *Class $(2,1)$-categories* - Higher structures, University of Nottingham, November 19 2025. [Abstract](https://calum-hughes.github.io/talks/classcatsnottingham)
 
@@ -48,6 +49,8 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 
 **Selected Internal Talks** 
+
+- *Size Matters* - The University of Manchester Students' Logic Seminar, February 18 2026.
 
 - *$2$-dimensional notions of realisability* - Category theory working group, October 24 2025. 
 
