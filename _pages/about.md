@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a fourth year PhD student in the University of Manchester's [category theory group](https://manchester-ct.github.io) studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I have submitted my thesis.
+I am a fourth year PhD student in the University of Manchester's [category theory group](https://manchester-ct.github.io) studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I defended my thesis in May 2026 to Steve Awodey and Omar León Sánchez.
 
 My research centres around topics in internal category theory, categorical logic, $2$-topos theory, type theory, homotopy thoery and the intersection of these things.
 
