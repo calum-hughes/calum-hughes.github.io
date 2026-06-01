@@ -26,5 +26,5 @@ redirect_from:
 
 
 *Other*
- -  [Internal Categories, Internal Groupoids and Models of Type Theory](_portfolio/Calum_Hughes_PhD_Thesis.pdf), PhD thesis, 2026.
+ -  [Internal Categories, Internal Groupoids and Models of Type Theory](https://calum-hughes.github.io/portfolio/Calum_Hughes_PhD_Thesis.pdf), PhD thesis, 2026.
  -  [The Dold Kan Correspondence](https://calum-hughes.github.io/portfolio/Dold-Kan.pdf), Master's project, 2022.
