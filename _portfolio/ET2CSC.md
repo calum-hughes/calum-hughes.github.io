@@ -1,10 +1,10 @@
 ---
-title: "The Dold-Kan Correspondence"
+title: "The Elementary Theory of the 2-category of Small Categories"
 collection: portfolio
 permalink: /portfolio/ET2CSC.pdf
 excerpt: 'The elementary theory of the 2-category of small categories'
 
-paperurl: 'https://calum-hughes.github.io/portfolio/Dold-Kan.pdf'
+paperurl: 'https://calum-hughes.github.io/portfolio/ET2CSC.pdf'
 
 ---
 We give an elementary description of $2$-categories
