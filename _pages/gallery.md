@@ -13,7 +13,7 @@ Here is a bunch of photos from conferences and talks. If you like, you can play 
 ![HoTTMURI_2025](/images/HoTT_MURI_2025_Working.jpeg)
 HoTT-MURI meeting, 2025. Carnegie Mellon University, Pittsburgh, USA. Post-talk discussions.
 
-![HoTTMURI_2025](/images/HoTT_MURI_2025_GroupPhoto.jpeg)
+![HoTTMURI_2025](/images/HoTT_Muri_2025_GroupPhoto.jpeg)
 HoTT-MURI meeting, 2025. Pittsburgh, USA. Group Photo.
 
 
