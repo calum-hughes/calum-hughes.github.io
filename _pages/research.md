@@ -8,7 +8,7 @@ redirect_from:
   - /research
 ---
 
-*Papers*
+*Publications*
 
 - [The Elementary Theory of the 2-Category of Small Categories](http://tac.mta.ca/tac/volumes/43/8/43-08abs.html), written with Adrian Miranda, 2024. Theory and Applications of Categories, Vol. 43, 2025, No. 8, pp 196-242.
 
@@ -26,4 +26,5 @@ redirect_from:
 
 
 *Other*
+ -  [Internal Categories, Internal Groupoids and Models of Type Theory](https://calum-hughes.github.io/portfolio/Calum_Hughes_Phd_Thesis.pdf), PhD thesis, 2026.
  -  [The Dold Kan Correspondence](https://calum-hughes.github.io/portfolio/Dold-Kan.pdf), Master's project, 2022.
