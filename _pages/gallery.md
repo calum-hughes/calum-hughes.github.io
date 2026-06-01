@@ -10,6 +10,13 @@ redirect_from:
 
 Here is a bunch of photos from conferences and talks. If you like, you can play "Where's Wally" with me in the group photos.
 
+![HoTTMURI_2025](/images/HoTTMURI_2025_Working.jpeg)
+HoTT-MURI meeting, 2025. Carnegie Mellon University, Pittsburgh, USA. Post-talk discussions.
+
+![HoTTMURI_2025](/images/HoTTMURI_2025_GroupPhoto.jpeg)
+HoTT-MURI meeting, 2025. Pittsburgh, USA. Group Photo.
+
+
 ![BLC2025](/images/BLC2025.jpg)
 *Categorified Choice Principles*, Biritsh Logic Colloquium, Manchester University, UK. September 12 2025.
 
