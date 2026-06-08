@@ -49,7 +49,7 @@ Teaching
 
 
 
-[Organisational Activities](#organisation) 
+Organisational Activities
 ======
 
 * Created and maintain the website for the [Manchester Category Theory Group](https://manchester-ct.github.io).
