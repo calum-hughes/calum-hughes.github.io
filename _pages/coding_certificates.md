@@ -10,13 +10,13 @@ redirect_from:
 
 Here are some certificates from some coding courses I have completed on [Kaggle](https://www.kaggle.com/).
 
-[intro to SQL](intro_to_SQL.png)
+[intro to SQL](_portfolio/intro_to_SQL.png)
 
-[intro to ML](intro_to_ML.png)
+[intro to ML](_portfolio/intro_to_ML.png)
 
-[Pandas](pandas.png)
+[Pandas](_portfolio/pandas.png)
 
-[python](python.png)
+[python](_portfolio/python.png)
 
 
 
