@@ -10,6 +10,9 @@ redirect_from:
 
 Here is a bunch of photos from conferences and talks. If you like, you can play "Where's Wally" with me in the group photos.
 
+![Viva](viva.jpg)
+Post viva celebration with my examiners (Steve Awodey and Omar León Sánchez) and my supervisor (Nicola Gambino).
+
 ![HoTTMURI_2025](/images/HoTT_Muri_2025_Working.jpeg)
 HoTT-MURI meeting, 2025. Carnegie Mellon University, Pittsburgh, USA. Post-talk discussions.
 
