@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /gallery/
-title: "Gallery"
-excerpt: "Gallery"
+permalink: /coding_certificates
+title: "Coding Certificates"
+excerpt: "Coding Certificates"
 author_profile: true
 redirect_from: 
-  - /gallery.html
+  - /coding_certificates.html
 ---
 
 Here are some certificates from some coding courses I have completed on [Kaggle](https://www.kaggle.com/).
