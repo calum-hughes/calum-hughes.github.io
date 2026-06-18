@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /coding_certificates
+permalink: /coding_certificates/
 title: "Coding Certificates"
 excerpt: "Coding Certificates"
 author_profile: true
