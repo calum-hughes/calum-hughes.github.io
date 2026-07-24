@@ -12,7 +12,7 @@ redirect_from:
 
 - [The Elementary Theory of the 2-Category of Small Categories](http://tac.mta.ca/tac/volumes/43/8/43-08abs.html), written with Adrian Miranda. Theory and Applications of Categories, Vol. 43, 2025, No. 8, pp 196-242.
 
--  [Colimits of Internal Categories](https://arxiv.org/abs/2501.17769), written with Adrian Miranda. Bulletin of the Belgian Mathematical Society --- Simon Stevin 33 (3) 351 - 385, July 2026.
+-  [Colimits of Internal Categories](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-33/issue-3/Colimits-of-internal-categories/10.36045/j.bbms.251105.short?tab=ArticleLink), written with Adrian Miranda. Bulletin of the Belgian Mathematical Society --- Simon Stevin 33 (3) 351 - 385, July 2026. (Download [here](https://calum-hughes.github.io/files/Colimits_of_internal_categories.pdf))
 
 
 *Preprints*
