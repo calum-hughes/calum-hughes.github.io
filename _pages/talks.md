@@ -9,7 +9,7 @@ Below is a list of talks that I have done. See a map of them all [here](https://
 
 **Invited Talks**
 
-- *Do elementary $(2,1)$-toposes support an internal model of intensional type theory?*- [ASSUME](https://tdejong.com/ASSUME/), July 30, 2026. [Abstract](https://calum-hughes.github.io/talks/assume2026), [Slides](https://calum-hughes.github.io/talks/assume2026.pdf)
+- *Do elementary $(2,1)$-toposes support an internal model of intensional type theory?* - [ASSUME](https://tdejong.com/ASSUME/), July 30, 2026. [Abstract](https://calum-hughes.github.io/talks/assume2026), [Slides](https://calum-hughes.github.io/talks/assume2026.pdf)
 
 - [*Elementary axiomatisations of the (2,1)-category of groupoids*](https://events.manchester.ac.uk/event/event:n1p4-mltd6c22-obauzy/logic-seminar-calum-hughes) - University of Manchester Logic Seminar, February 25 2026. [Abstract](https://calum-hughes.github.io/talks/ManchesterLogicSeminar)
 
