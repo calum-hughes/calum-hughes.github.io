@@ -1,0 +1,14 @@
+---
+title: "Do elementary (2,1)-toposes support an internal model of intensional type theory?"
+collection: talks
+type: "Talk"
+permalink: 
+venue: "University of Birmingham, United Kingdom"
+date: 2025-06-9
+location: "ASSUME seminar"
+---
+In 2009, Awodey came up with a proposal that homotopy type theory is to (∞, 1)-toposes as extensional type theory is to ordinary toposes. More explicitly, this means that just like ordinary toposes support an internal model of set-level type theory, (∞, 1)-toposes should support an internal model of homotopy type theory.
+
+Whilst this conjecture has been resolved for Grothendieck toposes by Shulman, the case for elementary toposes remains open— this is perhaps partially because even the definition of what higher elementary toposes is debated.
+
+In this talk, we will discuss a truncated version of Awodey’s proposal for elementary toposes; that elementary (2, 1)-toposes should support an interpretation of groupoid-level type theory. We will investigate some problems faced by Weber’s definition of an elementary (2, 1)-topos, and show that by adding extra axioms to this definition, we can start to form an explicit model of intensional type theory. With these additional axioms, the definition begins to look like a (2,1)-dimensional version of Joyal and Moerdijk's class categories; we discuss why this might make conceptual sense.
