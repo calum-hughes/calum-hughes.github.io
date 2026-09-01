@@ -13,7 +13,7 @@ I currently hold a postdoc position at the Università Studi degli di Milano, wh
 
 Before, I completed my PhD at the University of Manchester, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I defended my thesis in May 2026 to Steve Awodey and Omar León Sánchez.
 
-My research centres around topics in internal category theory, categorical logic, $2$-topos theory, type theory, homotopy thoery and the intersection of these things.
+My research centres around topics in internal category theory, categorical logic, $2$-topos theory, type theory, homotopy theory and the intersection of these things.
 
 <!-- In particular, I am interested in logical properties of $2$-categories of internal categories, and $(2,1)$-categories of internal groupoids. It is possible to show that given certain axioms on $\mathcal{E}$, the $(2,1)$-category $\mathbf{Gpd}(\mathcal{E})$ forms a model of Martin-Löf type theory. In some sense, this can be seen as its internal language.
 
