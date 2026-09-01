@@ -15,7 +15,7 @@ Work Experience
 =======
 
 * Postdoctoral Research position at Università Studi degli di Milano.
-    *Project title: "Categories in Logic and Algebra: Syntactic Spaces / 3D Algebra".
+    * Project title: "Categories in Logic and Algebra: Syntactic Spaces / 3D Algebra".
     * Supervisors: Luca Reggio, Gabriele Lobbia.
 
 Education
