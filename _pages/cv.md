@@ -11,6 +11,14 @@ redirect_from:
 
 [A PDF of my CV.](https://calum-hughes.github.io/files/CV2025.pdf) Below is the shorter, but likely more up-to-date version.
 
+Work Experience
+=======
+
+* Postdoctoral Research position at Università Studi degli di Milano
+  *Project title: "Categories in Logic and Algebra: Syntactic Spaces / 3D
+Algebra"
+  * Supervisors: Luca Reggio, Gabriele Lobbia
+
 Education
 ======
 * Fourth Year PhD student under the supervision of Dr. [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/).
