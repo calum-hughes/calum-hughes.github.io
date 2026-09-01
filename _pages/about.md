@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
+I currently hold a postdoc position at the Università Studi degli di Milano, where I am part of the [logic group](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica). 
 
-
-I am a fourth year PhD student in the University of Manchester's [category theory group](https://manchester-ct.github.io) studying category theory and its relation to logic, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I defended my thesis in May 2026 to Steve Awodey and Omar León Sánchez.
+Before, I completed my PhD at the University of Manchester, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I defended my thesis in May 2026 to Steve Awodey and Omar León Sánchez.
 
 My research centres around topics in internal category theory, categorical logic, $2$-topos theory, type theory, homotopy thoery and the intersection of these things.
 
@@ -23,7 +23,7 @@ I am also interested in $2$-dimensional categorical foundations of mathematics. 
 
 One of the problems with ETCS (and hence ET2CSC) is that the internal logic cannot model any statements in Zermelo-Fraenkel set theory with choice (ZFC) for which the axiom of replacement is used. In order to solve this in the 1-dimensional setting, we must look at the category of classes rather than the category of sets. Joyal and Moerdijk's concept of a *Class category* axiomatises the categorical properties of the category of classes in von Neumann-Bernays-Gödel set theory (NBG) in contrast to an elementary topos, which axiomatises the category of sets in ZFC.  Similarly, in $2$-dimensions, we must move from the world of small categories to the world of large categories, in which we can state the axiom of replacement. Our $2$-dimensional reformulation of Class categories gives a suitable environment for talking about a $2$-category with a well-behaved $2$-category of "small" objects. Our motivating example is the category of  large categories, for which the small objects are the small categories. Other such examples are given by categories of (pre)stacks over a small category $\mathbb{C}$, and categories internal to the category of assemblies on a partial combinatorial algebra. These examples motivate connections between $2$-dimensional logic and topics in algebraic geometry and computability theory. -->
 
-I am the maintainer of the University of Manchester's Category Theory Group [website](https://manchester-ct.github.io).
+<!-- I am the maintainer of the University of Manchester's Category Theory Group [website](https://manchester-ct.github.io). -->
 
 I completed an MMath in Mathematics at the university of Sheffield in 2022. My MMath project was on the Dold-Kan correspondence, supervised by Prof. Sarah Whitehouse.   
 
