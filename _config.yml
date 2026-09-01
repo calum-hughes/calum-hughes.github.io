@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Calum Hughes"
 title_separator          : "-"
 name                     : &name "Calum Hughes"
-description              : &description "PhD student studying at the University of Manchester"
+description              : &description "Postdoctoral researcher at Università Studi degli di Milano"
 url                      : https://calum-hughes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Calum Hughes"
   avatar           : "profile.jpg"
-  bio              : "PhD student studying category theory and logic at the University of Manchester."
+  bio              : "Postdoctoral researcher studying category theory and logic at Università Studi degli di Milano"
   location         : "Manchester"
   email            : calum.hughes@postgrad.manchester.ac.uk
   github           : "calum-hughes"
-  instagram        : "aslancaneatyou"
-
-  twitter          : "simplicialcalum"
 
 
 
