@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I currently hold a postdoc position at the Università Studi degli di Milano, where I am part of the [logic group](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica). 
+I currently hold a postdoc position at the Università degli Studi di Milano, where I am part of the [logic group](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica). 
 
 Before, I completed my PhD at the University of Manchester, supervised by [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/). I defended my thesis in May 2026 to Steve Awodey and Omar León Sánchez.
 
